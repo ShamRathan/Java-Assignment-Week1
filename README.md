@@ -1,4 +1,6 @@
 # Java-Assignment-Week1
+## Name  : S.Sham Rathan
+## Reg.no: 212221230093
 ### 1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers:
 ```
 import java.util.Scanner;
